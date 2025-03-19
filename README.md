@@ -6,6 +6,7 @@
 ## 📌 Project Overview
 
 **Wine Quality Analysis** is a data science project that evaluates the quality of different wines based on chemical properties. The project includes data preprocessing, model training, evaluation, and documentation using Sphinx.
-​#**The WineQT.csv dataset** used is commonly associated with the Wine Quality Dataset from the UCI Machine Learning Repository. This dataset contains physicochemical properties of Portuguese "Vinho Verde" wine samples, aiming to model wine quality based on these features.
+
+​**The WineQT.csv dataset** used is commonly associated with the Wine Quality Dataset from the UCI Machine Learning Repository. This dataset contains physicochemical properties of Portuguese "Vinho Verde" wine samples, aiming to model wine quality based on these features.
 
 
